@@ -1,0 +1,19 @@
+#container {
+    border: 1px tan solid;
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(219, 124, 0);
+    display: block;
+}
+
+.dice{
+    display: flex;
+    border: 2px black;
+}
+
+.point{
+    display: flex;
+    color: black;
+    height: 3px;
+    width: 3px;
+}
